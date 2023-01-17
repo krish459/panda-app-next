@@ -24,7 +24,7 @@
   /* width: 100%; */
   /* z-index: 2; */
   /* font-family: var(--font-mono); */
-  margin: 4rem;
+  /* margin: 4rem; */
   text-align: center;
 }
 
@@ -297,3 +297,10 @@
     list-style: none;
     font-weight: bold;
 }  
+.myImg{
+  border-radius: 10px;
+}
+ 
+.imagewrap{
+  padding: 30px 0px;
+}
