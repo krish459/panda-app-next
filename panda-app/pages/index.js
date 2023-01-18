@@ -34,6 +34,7 @@ export default function Home() {
             src="/images/bgpic"
             width={237}
             height={158}
+            alt="hunting coder"
           />
         </div>
         <div>

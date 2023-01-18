@@ -10,3 +10,9 @@
 .formlabel {
     margin: 0px 14px;
 }
+@media only screen and (max-width: 600px) {
+    .container {
+        max-width: 88vw;
+        margin: auto;
+    }
+}
